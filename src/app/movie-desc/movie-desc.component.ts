@@ -4,7 +4,7 @@ import { Router,ActivatedRoute,ParamMap} from '@angular/router';
 
 @Component({
   selector: 'app-movie-desc',
-  templateUrl: './movie-desc.component.html',
+  templateUrl: './movie-dec.component.html',
   styleUrls: ['./movie-desc.component.css']
 })
 export class MovieDescComponent implements OnInit {
